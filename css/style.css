@@ -1,0 +1,85 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+    background-color: coral;
+}
+header{
+    background-color: aqua;
+    height: 205px;
+    width: 300px;
+    position: absolute;
+    left: 20%;
+    top: 5%;
+}
+header h2{
+    font-style: oblique;
+    text-decoration: underline;
+}
+header h3 span{
+    font-style: italic;
+}
+.foto{
+    background-color: bisque;
+    height: 131px;
+    width: 19%;
+    position: absolute;
+    top: 32px;
+    left: 6px;
+}
+img{
+    position: relative;
+    left: 70px;
+    top: 0px;
+}
+.cursos{
+    background-color:rgb(222, 250, 181);
+    position: absolute;
+    left: 579px;
+    top: 240px;
+    width: 530px;
+    height: 300px;
+}
+.cursos h2{
+    font-style: oblique;
+    text-decoration: underline;
+}
+.cursos h3 span{
+    font-style: italic;
+}
+.contenido{
+    position: relative;
+    top: 250px;
+    left: 25px;
+}
+#cont1{
+    position: relative;
+    top: 250px;
+    left: 50px;
+    font-style: oblique;
+}
+#cont2{
+    position: relative;
+    top: 190px;
+    left: 5px;
+    font-style: italic;
+}
+/* #boton{
+    margin-top: 3px;
+}
+#container, #container1{
+    position: absolute;
+    left: 600px;
+    top: 100px;
+} */
+#contenedor, #container1{
+    position: absolute;
+    left: 600px;
+    top: 100px;
+}
+#dato{
+    position: absolute;
+    left: 600px;
+    top: 80px; 
+}
